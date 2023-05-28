@@ -4,15 +4,19 @@ Este repositório contém uma coleção de exercícios de algoritmos implementad
 
 ## Exercício 1: Conta Bancária (Programação Orientada a Objetos)
 
-O exercício `Conta_Bancaria.ipynb` é um programa que simula uma conta bancária utilizando programação orientada a objetos. Ele permite criar uma conta, realizar depósitos, saques e consultar o saldo. O objetivo desse exercício é praticar os conceitos de classes, objetos e métodos em Python.
+O exercício `Conta_Bancaria.ipynb` é um programa que simula uma conta bancária utilizando programação orientada a objetos. Ele permite criar uma conta, realizar depósitos, saques e consultar o saldo. O objetivo desse exercício é praticar os conceitos de classes, objetos e métodos em Python. Link do exercício: http://prorum.com/?qa=8002/classe-conta_bancaria-atributos-titular-numero-conta-saldo
 
 ## Exercício 2: Dicionário de uma Tabela
 
-O exercício `Dicionario_De_Uma_Tabela.ipynb` consiste em transformar uma tabela em um dicionário. O programa lê uma tabela em formato CSV e cria um dicionário em que as colunas são as chaves e as linhas são os valores. Esse exercício ajuda a praticar o processamento de dados estruturados e manipulação de dicionários em Python.
+O exercício `Dicionario_De_Uma_Tabela.ipynb` consiste em transformar uma tabela em um dicionário. O programa lê uma tabela em formato CSV e cria um dicionário em que as colunas são as chaves e as linhas são os valores. Esse exercício ajuda a praticar o processamento de dados estruturados e manipulação de dicionários em Python. Link do exercício: http://prorum.com/?qa=8015/como-fazer-um-dicionario-a-partir-de-uma-tabela
 
 ## Exercício 3: Jogo de Adivinhação de Números
 
-O exercício `Adivinhar_Numeros.ipynb` é um simples jogo de adivinhação de números. O programa gera um número aleatório e o jogador precisa tentar adivinhar qual é esse número. O jogo fornece dicas para orientar o jogador na busca pelo número correto. Esse exercício permite praticar estruturas de controle, geração de números aleatórios e interação com o usuário.
+O exercício `Adivinhar_Numeros.ipynb` é um simples jogo de adivinhação de números. O programa gera um número aleatório e o jogador precisa tentar adivinhar qual é esse número. O jogo fornece dicas para orientar o jogador na busca pelo número correto. Esse exercício permite praticar estruturas de controle, geração de números aleatórios e interação com o usuário. Link para o exercício: http://prorum.com/?qa=8028/advinhar-numeros-gerados-pelo-computador-em-python
+
+## Exercício 4: Implementação do método de fibonacci com memoização e sem memoização
+
+O exercício implementa a sequência de fibonacci de forma recursiva sem memoização e depois implementa a mesma sequência de fibonacci de forma recursiva com memoização. Explica o motivo pelo qual um método é mais eficiente do que o outro. Link para o exercício: http://prorum.com/?qa=7979/implemente-sequencia-fibonacci-memoizacao-implemente-memoizacao
 
 ## Como Executar
 
