@@ -1,6 +1,6 @@
 # Exercícios de Algoritmos em Python
 
-Este repositório contém uma coleção de exercícios de algoritmos implementados em Python. Os exercícios visam praticar conceitos de programação e lógica de programação.
+Este repositório contém uma coleção de exercícios de algoritmos implementados em Python que foram feitos no site http://prorum.com/. Os exercícios visam praticar conceitos de programação e lógica de programação.
 
 ## Exercício 1: Conta Bancária (Programação Orientada a Objetos)
 
