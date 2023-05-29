@@ -21,6 +21,10 @@ O exercício implementa a sequência de fibonacci de forma recursiva sem memoiza
 ## Exercício 5: Exercício de estatística(média ponderada em python de um dado viciado)
 Neste projeto, foram realizadas 50 simulações independentes, cada uma contendo 50 observações, para um tipo de dado enviesado. O objetivo foi analisar a distribuição das médias obtidas a partir dessas simulações e comparar duas abordagens diferentes para o cálculo da média.
 
+## Dados: 
+Em dados até agora eu tenho o arquivo para o código do Exercício de estatística
+
+
 ## Como Executar
 
 Para executar os exercícios, é necessário ter o Jupyter Notebook e o Python instalados em sua máquina. Você pode abrir os arquivos `.ipynb` em um ambiente Jupyter Notebook de sua preferência para interagir com os exercícios.
