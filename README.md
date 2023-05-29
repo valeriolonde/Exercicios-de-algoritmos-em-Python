@@ -18,6 +18,9 @@ O exercício `Adivinhar_Numeros.ipynb` é um simples jogo de adivinhação de n�
 
 O exercício implementa a sequência de fibonacci de forma recursiva sem memoização e depois implementa a mesma sequência de fibonacci de forma recursiva com memoização. Explica o motivo pelo qual um método é mais eficiente do que o outro. Link para o exercício: http://prorum.com/?qa=7979/implemente-sequencia-fibonacci-memoizacao-implemente-memoizacao
 
+## Exercício 5: Exercício de estatística(média ponderada em python de um dado viciado)
+Neste projeto, foram realizadas 50 simulações independentes, cada uma contendo 50 observações, para um tipo de dado enviesado. O objetivo foi analisar a distribuição das médias obtidas a partir dessas simulações e comparar duas abordagens diferentes para o cálculo da média.
+
 ## Como Executar
 
 Para executar os exercícios, é necessário ter o Jupyter Notebook e o Python instalados em sua máquina. Você pode abrir os arquivos `.ipynb` em um ambiente Jupyter Notebook de sua preferência para interagir com os exercícios.
