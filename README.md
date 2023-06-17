@@ -20,6 +20,9 @@ Neste projeto, foram realizadas 50 simulações independentes, cada uma contendo
 ## Exercício 6: Funcionalidade de polinomios (Programação Orientada a Objetos)
 Esse exercício pede para verificar a funcionalidade do método str na classe Polynomial escrevendo uma nova função de teste test _Polynomial _str(). A resposta do exercício com explicação pode ser conferida no link: http://prorum.com/?qa=8038/testar-funcionalidade-de-formatacao-elegante-polinomioshttp://prorum.com/?qa=8038/testar-funcionalidade-de-formatacao-elegante-polinomios
 
+# Exercício 7: Jogo de Pedra Papel Tesoura
+Esse exercício implementa o jogo de pedra papel tesoura. O exercício e explicações podem ser vistos com detalhes em: http://prorum.com/?qa=8030/como-implementar-um-jogo-de-pedra-papel-e-tesoura-no-python
+
 ## Dados: 
 Em dados até agora eu tenho o arquivo para o código do Exercício de estatística
 
