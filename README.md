@@ -23,7 +23,7 @@ Esse exercício pede para verificar a funcionalidade do método str na classe Po
 # Exercício 7: Jogo de Pedra Papel Tesoura
 Esse exercício implementa o jogo de pedra papel tesoura. O exercício e explicações podem ser vistos com detalhes em: http://prorum.com/?qa=8030/como-implementar-um-jogo-de-pedra-papel-e-tesoura-no-python
 
-## Exercício 8: memoização com funções
+# Exercício 8: memoização com funções
 Exercício simples de memoização com funções em python utilizando programação funcioanl. É possível ver no link do http://prorum.com/?qa=8188/funcao-memoize-recebe-funcao-memoiza-retorna-funcao-fornecida
 
 
